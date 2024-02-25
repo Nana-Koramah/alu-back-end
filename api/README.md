@@ -1,1 +1,1 @@
-This is about APIs
+This is about APIs and their basics.
